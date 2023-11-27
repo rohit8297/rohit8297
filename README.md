@@ -12,13 +12,16 @@ SKILLS
 5. Core Java
 6. Automation Testing
 7. Git & GitHub
-PERSONAL PROJECTS:
+8. API Testing
+9. SQL
+10. Jenkins
 
+PERSONAL PROJECTS:
 Wrote 50+ comprehensive manual test cases for the ShopersStack website. Project Description: Written Smoke Test cases On Login, Sign-up, Welcome, Home, Account Settings, etc...,
 
-EDUCATION:
-
+EDUCATION:<br>
+B.Tech (Electronics and Telecommunication) From Trident Academy Of Teachnology, Odisha <br>
 
 CONTACT DETAILS:
-Email: rohit.etc.tat1080@gmail.com
+Email: Rohit.kp8297@gmail.com <br>
 GitHub: https://github.com/rohit8297
