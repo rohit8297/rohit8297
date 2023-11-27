@@ -20,5 +20,5 @@ EDUCATION:
 
 
 CONTACT DETAILS:
-Email: <a href= "rohit.etc.tat1080@gmail.com">
-GitHub: <a href="https://github.com/rohit8297">
+Email: rohit.etc.tat1080@gmail.com
+GitHub: https://github.com/rohit8297
